@@ -95,19 +95,19 @@ a {
 }
 
 img {
-  width: auto; /* Mantener el ancho proporcional */
-  height: 500px; /* Cambiar solo la altura */
+  width: auto;
+  height: 500px;
   border: 3px solid #000;
   border-radius: 10px;
 }
 
 .card-content {
-  position: absolute; /* Agrega esta línea */
-  top: 0; /* Ajusta la posición vertical según tus necesidades */
-  left: 0; /* Ajusta la posición horizontal según tus necesidades */
-  text-align: center; /* Ajusta la alineación del texto según tus necesidades */
-  padding: 20px; /* Ajusta el espaciado interior según tus necesidades */
-  color: #f8f6f6; /* Ajusta el color del texto según tus necesidades */
+  position: absolute; 
+  top: 0; 
+  left: 0;
+  text-align: center;
+  padding: 20px; 
+  color: #f8f6f6; 
 }
 
 a:hover {
